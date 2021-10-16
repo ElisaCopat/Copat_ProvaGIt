@@ -1,3 +1,12 @@
-info.txt
-README.md
-dir.txt
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 0669-4CFD
+
+ Directory di C:\Users\4c07\Desktop\Copat_ProvaGit
+
+16/10/2021  09:41    <DIR>          .
+16/10/2021  09:41    <DIR>          ..
+16/10/2021  09:43                 0 dir.txt
+16/10/2021  09:21                22 info.txt
+16/10/2021  09:16                45 README.md
+               3 File             67 byte
+               2 Directory  67.057.561.600 byte disponibili
